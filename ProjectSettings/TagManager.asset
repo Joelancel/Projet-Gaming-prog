@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - food
+  - Trap
+  - Piege
+  - New tag
+  - Playerr
+  - asteroid
   layers:
   - Default
   - TransparentFX
